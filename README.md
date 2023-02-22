@@ -1,2 +1,2 @@
 # Trrendyol E2E 
- Satın Alma E2E testi
+ Webdriver.io ile mocha framework'ü kullanılarak javaScript dilinde ürün arama filtreleme, favorilere ekleme, sepete atma, sepetten silme ve ödeme yapılması gibi çeşitli senaryoları ve bu senaryoların otomasyona dökülmesini içerir.
